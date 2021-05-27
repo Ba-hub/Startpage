@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://github.com/Ba-hub/Startpage/logo.png" height="60"><br>
+<img src="https://github.com/Ba-hub/Startpage/raw/master/logo.png" height="60"><br>
 A Metasploit Base Payload & Anonymous Browser Interface
 </p>
 
